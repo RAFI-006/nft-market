@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nft-market/static/css/main.b7afd8f8.chunk.css",
+    "main.js": "/nft-market/static/js/main.2fa873bc.chunk.js",
+    "main.js.map": "/nft-market/static/js/main.2fa873bc.chunk.js.map",
+    "runtime-main.js": "/nft-market/static/js/runtime-main.a22a2c3b.js",
+    "runtime-main.js.map": "/nft-market/static/js/runtime-main.a22a2c3b.js.map",
+    "static/js/2.78da26a0.chunk.js": "/nft-market/static/js/2.78da26a0.chunk.js",
+    "static/js/2.78da26a0.chunk.js.map": "/nft-market/static/js/2.78da26a0.chunk.js.map",
+    "index.html": "/nft-market/index.html",
+    "static/css/main.b7afd8f8.chunk.css.map": "/nft-market/static/css/main.b7afd8f8.chunk.css.map",
+    "static/js/2.78da26a0.chunk.js.LICENSE.txt": "/nft-market/static/js/2.78da26a0.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.a8a75254.svg": "/nft-market/static/media/twitter-logo.a8a75254.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a22a2c3b.js",
+    "static/js/2.78da26a0.chunk.js",
+    "static/css/main.b7afd8f8.chunk.css",
+    "static/js/main.2fa873bc.chunk.js"
+  ]
+}
